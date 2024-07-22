@@ -1,1 +1,3 @@
+SCM_P5.new
+
 SCM_P5
